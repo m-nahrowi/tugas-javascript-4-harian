@@ -1,0 +1,14 @@
+Algoritma soal nomo 3 :
+0.	Mulai
+1.	Membuat arrow function dengan nama divideAndSort
+2.	Membuat parameter untuk menampung nilai input
+3.	Membuat variabel temp_1
+4.	Memasukan nilai parameter ke temp_1
+5.	Mengubah nilai parameter ke bentuk string dengan perintah .toString()
+6.	Mengubah element menjadi array dengan menggunakan method .split() dengan kondisi parameter pencarian angka 0
+7.	Membuat variabel temp_2 untuk menampung hasil mtehod .map
+8.	Di dalam method .map, melakukan perintah .split() untuk mengubah data menjadi array yang lebih detail, kemudian menggunakan methos .sort() untuk mengurutkan array, lalu menggunakan method .join() untuk menggabungkan kembali array
+9.	Mengeluarkan nilai array console.log, lalu di dalam console.log terdapat method .split() untuk menggabungkan array kembali menjadi string, kemudian ada perintah parseInt() untuk mengubah string menjadi number
+10.	Panggil fungsi divideAndSort(5956560159466056) beserta nilai inputan
+11.	Ouput yang keluar adalah 55566914566956
+12.	Selesai

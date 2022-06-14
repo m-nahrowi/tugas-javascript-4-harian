@@ -1,0 +1,18 @@
+{
+  "name": "tugas_harian",
+  "version": "1.0.0",
+  "description": "mengerjakan tugas 1,2,3,4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palindrom",
+    "reverse",
+    "word",
+    "promo",
+    "array"
+  ],
+  "author": "Muhamad Nahrowi",
+  "license": "MIT"
+}
